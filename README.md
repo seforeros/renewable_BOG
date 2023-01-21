@@ -1,0 +1,1 @@
+This is a research made in the National University of Colombia that involves the potencial of renewable energies in rural Bogota for the design and possible implementation of a clean energy generation plant.
